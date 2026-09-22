@@ -6,8 +6,8 @@ const projects = [
     date: "2025",
     description: "A human-centered engineering project exploring how a robot could make medication organization easier for older adults. Developed during Tufts University's Engineering Design Lab.",
     tags: ["CAD", "Prototyping", "Programming", "Human-centered design"],
-    image: "robot-preview.svg",
-    imageAlt: "Conceptual illustration of an assistive pill-sorting robot",
+    image: "robot-photo.svg",
+    imageAlt: "Photograph of the actual pill-sorting robot prototype",
     page: "pill-sorting-robot.html"
   }
 ];
